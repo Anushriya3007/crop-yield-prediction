@@ -1,0 +1,301 @@
+Country,Crop,Year,Unit,Yield
+India,Barley,2000,kg/ha,1997.2
+India,Barley,2001,kg/ha,1840.0
+India,Barley,2002,kg/ha,2160.0
+India,Barley,2003,kg/ha,2006.0
+India,Barley,2004,kg/ha,1975.0
+India,Barley,2005,kg/ha,1958.0
+India,Barley,2006,kg/ha,1937.8
+India,Barley,2007,kg/ha,2058.2
+India,Barley,2008,kg/ha,1991.4
+India,Barley,2009,kg/ha,2393.5
+India,Barley,2010,kg/ha,2171.7
+India,Barley,2011,kg/ha,2357.4
+India,Barley,2012,kg/ha,2519.4
+India,Barley,2013,kg/ha,2518.0
+India,Barley,2014,kg/ha,2717.1
+India,Barley,2015,kg/ha,2281.5
+India,Barley,2016,kg/ha,2440.7
+India,Barley,2017,kg/ha,2662.8
+India,Barley,2018,kg/ha,2694.9
+India,Barley,2019,kg/ha,2837.2
+India,Barley,2020,kg/ha,2920.5
+India,Barley,2021,kg/ha,2795.7
+India,Barley,2022,kg/ha,3025.1
+India,Barley,2023,kg/ha,3044.5
+India,Barley,2024,kg/ha,3082.1
+India,"Chick peas, dry",2000,kg/ha,832.7
+India,"Chick peas, dry",2001,kg/ha,743.5
+India,"Chick peas, dry",2002,kg/ha,853.0
+India,"Chick peas, dry",2003,kg/ha,717.3
+India,"Chick peas, dry",2004,kg/ha,811.2
+India,"Chick peas, dry",2005,kg/ha,814.6
+India,"Chick peas, dry",2006,kg/ha,808.5
+India,"Chick peas, dry",2007,kg/ha,845.2
+India,"Chick peas, dry",2008,kg/ha,762.0
+India,"Chick peas, dry",2009,kg/ha,894.8
+India,"Chick peas, dry",2010,kg/ha,915.5
+India,"Chick peas, dry",2011,kg/ha,894.5
+India,"Chick peas, dry",2012,kg/ha,925.5
+India,"Chick peas, dry",2013,kg/ha,1036.4
+India,"Chick peas, dry",2014,kg/ha,960.0
+India,"Chick peas, dry",2015,kg/ha,888.6
+India,"Chick peas, dry",2016,kg/ha,840.3
+India,"Chick peas, dry",2017,kg/ha,974.2
+India,"Chick peas, dry",2018,kg/ha,1077.5
+India,"Chick peas, dry",2019,kg/ha,1041.0
+India,"Chick peas, dry",2020,kg/ha,1142.3
+India,"Chick peas, dry",2021,kg/ha,1191.6
+India,"Chick peas, dry",2022,kg/ha,1261.0
+India,"Chick peas, dry",2023,kg/ha,1171.6
+India,"Chick peas, dry",2024,kg/ha,1151.4
+India,"Groundnuts, excluding shelled",2000,kg/ha,940.3
+India,"Groundnuts, excluding shelled",2001,kg/ha,1127.9
+India,"Groundnuts, excluding shelled",2002,kg/ha,743.9
+India,"Groundnuts, excluding shelled",2003,kg/ha,1345.9
+India,"Groundnuts, excluding shelled",2004,kg/ha,992.7
+India,"Groundnuts, excluding shelled",2005,kg/ha,1184.5
+India,"Groundnuts, excluding shelled",2006,kg/ha,863.8
+India,"Groundnuts, excluding shelled",2007,kg/ha,1453.0
+India,"Groundnuts, excluding shelled",2008,kg/ha,1187.0
+India,"Groundnuts, excluding shelled",2009,kg/ha,983.3
+India,"Groundnuts, excluding shelled",2010,kg/ha,1407.8
+India,"Groundnuts, excluding shelled",2011,kg/ha,1299.2
+India,"Groundnuts, excluding shelled",2012,kg/ha,1030.0
+India,"Groundnuts, excluding shelled",2013,kg/ha,1759.8
+India,"Groundnuts, excluding shelled",2014,kg/ha,1556.7
+India,"Groundnuts, excluding shelled",2015,kg/ha,1489.0
+India,"Groundnuts, excluding shelled",2016,kg/ha,1389.1
+India,"Groundnuts, excluding shelled",2017,kg/ha,1838.0
+India,"Groundnuts, excluding shelled",2018,kg/ha,1444.2
+India,"Groundnuts, excluding shelled",2019,kg/ha,2044.2
+India,"Groundnuts, excluding shelled",2020,kg/ha,1729.1
+India,"Groundnuts, excluding shelled",2021,kg/ha,1763.3
+India,"Groundnuts, excluding shelled",2022,kg/ha,2030.3
+India,"Groundnuts, excluding shelled",2023,kg/ha,2192.1
+India,"Groundnuts, excluding shelled",2024,kg/ha,2111.9
+India,"Lentils, dry",2000,kg/ha,738.2
+India,"Lentils, dry",2001,kg/ha,619.3
+India,"Lentils, dry",2002,kg/ha,662.9
+India,"Lentils, dry",2003,kg/ha,632.8
+India,"Lentils, dry",2004,kg/ha,741.3
+India,"Lentils, dry",2005,kg/ha,676.3
+India,"Lentils, dry",2006,kg/ha,626.6
+India,"Lentils, dry",2007,kg/ha,619.0
+India,"Lentils, dry",2008,kg/ha,618.3
+India,"Lentils, dry",2009,kg/ha,692.9
+India,"Lentils, dry",2010,kg/ha,697.3
+India,"Lentils, dry",2011,kg/ha,590.8
+India,"Lentils, dry",2012,kg/ha,677.8
+India,"Lentils, dry",2013,kg/ha,796.9
+India,"Lentils, dry",2014,kg/ha,758.4
+India,"Lentils, dry",2015,kg/ha,704.6
+India,"Lentils, dry",2016,kg/ha,764.9
+India,"Lentils, dry",2017,kg/ha,837.6
+India,"Lentils, dry",2018,kg/ha,1046.9
+India,"Lentils, dry",2019,kg/ha,901.0
+India,"Lentils, dry",2020,kg/ha,846.7
+India,"Lentils, dry",2021,kg/ha,1017.4
+India,"Lentils, dry",2022,kg/ha,898.7
+India,"Lentils, dry",2023,kg/ha,952.3
+India,"Lentils, dry",2024,kg/ha,1028.0
+India,Maize (corn),2000,kg/ha,1799.2
+India,Maize (corn),2001,kg/ha,1993.3
+India,Maize (corn),2002,kg/ha,1688.5
+India,Maize (corn),2003,kg/ha,2015.9
+India,Maize (corn),2004,kg/ha,1868.2
+India,Maize (corn),2005,kg/ha,1955.7
+India,Maize (corn),2006,kg/ha,1811.1
+India,Maize (corn),2007,kg/ha,2315.8
+India,Maize (corn),2008,kg/ha,2276.5
+India,Maize (corn),2009,kg/ha,2146.1
+India,Maize (corn),2010,kg/ha,2483.8
+India,Maize (corn),2011,kg/ha,2493.5
+India,Maize (corn),2012,kg/ha,2493.0
+India,Maize (corn),2013,kg/ha,2645.9
+India,Maize (corn),2014,kg/ha,2588.8
+India,Maize (corn),2015,kg/ha,2637.2
+India,Maize (corn),2016,kg/ha,2686.3
+India,Maize (corn),2017,kg/ha,2937.5
+India,Maize (corn),2018,kg/ha,3023.4
+India,Maize (corn),2019,kg/ha,2998.1
+India,Maize (corn),2020,kg/ha,3161.4
+India,Maize (corn),2021,kg/ha,3303.3
+India,Maize (corn),2022,kg/ha,3395.4
+India,Maize (corn),2023,kg/ha,3326.5
+India,Maize (corn),2024,kg/ha,3544.8
+India,Millet,2000,kg/ha,781.5
+India,Millet,2001,kg/ha,900.6
+India,Millet,2002,kg/ha,631.1
+India,Millet,2003,kg/ha,1081.4
+India,Millet,2004,kg/ha,913.6
+India,Millet,2005,kg/ha,857.5
+India,Millet,2006,kg/ha,888.2
+India,Millet,2007,kg/ha,1044.9
+India,Millet,2008,kg/ha,1031.2
+India,Millet,2009,kg/ha,800.9
+India,Millet,2010,kg/ha,1105.5
+India,Millet,2011,kg/ha,1171.4
+India,Millet,2012,kg/ha,1205.0
+India,Millet,2013,kg/ha,1204.0
+India,Millet,2014,kg/ha,1275.9
+India,Millet,2015,kg/ha,1152.8
+India,Millet,2016,kg/ha,1270.9
+India,Millet,2017,kg/ha,1261.6
+India,Millet,2018,kg/ha,1211.4
+India,Millet,2019,kg/ha,1386.8
+India,Millet,2020,kg/ha,1427.1
+India,Millet,2021,kg/ha,1396.0
+India,Millet,2022,kg/ha,1417.7
+India,Millet,2023,kg/ha,1419.7
+India,Millet,2024,kg/ha,1431.4
+India,Potatoes,2000,kg/ha,18644.3
+India,Potatoes,2001,kg/ha,18362.7
+India,Potatoes,2002,kg/ha,19417.3
+India,Potatoes,2003,kg/ha,17320.8
+India,Potatoes,2004,kg/ha,18809.1
+India,Potatoes,2005,kg/ha,18890.8
+India,Potatoes,2006,kg/ha,18592.0
+India,Potatoes,2007,kg/ha,16410.1
+India,Potatoes,2008,kg/ha,19297.3
+India,Potatoes,2009,kg/ha,18810.3
+India,Potatoes,2010,kg/ha,19929.9
+India,Potatoes,2011,kg/ha,22724.0
+India,Potatoes,2012,kg/ha,21753.0
+India,Potatoes,2013,kg/ha,22760.6
+India,Potatoes,2014,kg/ha,22922.4
+India,Potatoes,2015,kg/ha,23125.7
+India,Potatoes,2016,kg/ha,20508.7
+India,Potatoes,2017,kg/ha,22306.1
+India,Potatoes,2018,kg/ha,23954.2
+India,Potatoes,2019,kg/ha,23097.1
+India,Potatoes,2020,kg/ha,23677.2
+India,Potatoes,2021,kg/ha,24123.7
+India,Potatoes,2022,kg/ha,25236.3
+India,Potatoes,2023,kg/ha,25789.9
+India,Potatoes,2024,kg/ha,24568.4
+India,Sorghum,2000,kg/ha,819.2
+India,Sorghum,2001,kg/ha,760.3
+India,Sorghum,2002,kg/ha,789.4
+India,Sorghum,2003,kg/ha,801.9
+India,Sorghum,2004,kg/ha,656.0
+India,Sorghum,2005,kg/ha,830.4
+India,Sorghum,2006,kg/ha,840.6
+India,Sorghum,2007,kg/ha,918.0
+India,Sorghum,2008,kg/ha,958.9
+India,Sorghum,2009,kg/ha,883.2
+India,Sorghum,2010,kg/ha,967.7
+India,Sorghum,2011,kg/ha,989.5
+India,Sorghum,2012,kg/ha,913.3
+India,Sorghum,2013,kg/ha,796.9
+India,Sorghum,2014,kg/ha,942.1
+India,Sorghum,2015,kg/ha,822.5
+India,Sorghum,2016,kg/ha,731.2
+India,Sorghum,2017,kg/ha,867.1
+India,Sorghum,2018,kg/ha,903.7
+India,Sorghum,2019,kg/ha,839.7
+India,Sorghum,2020,kg/ha,1074.4
+India,Sorghum,2021,kg/ha,1052.8
+India,Sorghum,2022,kg/ha,1084.9
+India,Sorghum,2023,kg/ha,1116.5
+India,Sorghum,2024,kg/ha,1173.8
+India,Soya beans,2000,kg/ha,822.9
+India,Soya beans,2001,kg/ha,940.0
+India,Soya beans,2002,kg/ha,762.4
+India,Soya beans,2003,kg/ha,1192.9
+India,Soya beans,2004,kg/ha,908.2
+India,Soya beans,2005,kg/ha,1073.4
+India,Soya beans,2006,kg/ha,1062.7
+India,Soya beans,2007,kg/ha,1234.9
+India,Soya beans,2008,kg/ha,1041.5
+India,Soya beans,2009,kg/ha,1023.6
+India,Soya beans,2010,kg/ha,1326.3
+India,Soya beans,2011,kg/ha,1208.2
+India,Soya beans,2012,kg/ha,1352.9
+India,Soya beans,2013,kg/ha,1012.3
+India,Soya beans,2014,kg/ha,950.8
+India,Soya beans,2015,kg/ha,738.5
+India,Soya beans,2016,kg/ha,1176.6
+India,Soya beans,2017,kg/ha,1058.5
+India,Soya beans,2018,kg/ha,1191.9
+India,Soya beans,2019,kg/ha,920.7
+India,Soya beans,2020,kg/ha,976.2
+India,Soya beans,2021,kg/ha,1069.2
+India,Soya beans,2022,kg/ha,1145.3
+India,Soya beans,2023,kg/ha,985.4
+India,Soya beans,2024,kg/ha,1169.5
+India,Sugar cane,2000,kg/ha,70934.9
+India,Sugar cane,2001,kg/ha,68576.6
+India,Sugar cane,2002,kg/ha,67369.6
+India,Sugar cane,2003,kg/ha,63576.1
+India,Sugar cane,2004,kg/ha,59379.9
+India,Sugar cane,2005,kg/ha,64751.7
+India,Sugar cane,2006,kg/ha,66928.1
+India,Sugar cane,2007,kg/ha,69033.0
+India,Sugar cane,2008,kg/ha,68877.2
+India,Sugar cane,2009,kg/ha,64553.5
+India,Sugar cane,2010,kg/ha,70019.1
+India,Sugar cane,2011,kg/ha,69246.6
+India,Sugar cane,2012,kg/ha,71634.3
+India,Sugar cane,2013,kg/ha,68240.0
+India,Sugar cane,2014,kg/ha,70569.5
+India,Sugar cane,2015,kg/ha,71466.1
+India,Sugar cane,2016,kg/ha,70393.5
+India,Sugar cane,2017,kg/ha,69001.4
+India,Sugar cane,2018,kg/ha,80198.4
+India,Sugar cane,2019,kg/ha,80104.5
+India,Sugar cane,2020,kg/ha,80496.6
+India,Sugar cane,2021,kg/ha,83566.2
+India,Sugar cane,2022,kg/ha,84906.3
+India,Sugar cane,2023,kg/ha,83348.7
+India,Sugar cane,2024,kg/ha,78953.0
+India,Sunflower seed,2000,kg/ha,591.7
+India,Sunflower seed,2001,kg/ha,586.1
+India,Sunflower seed,2002,kg/ha,568.7
+India,Sunflower seed,2003,kg/ha,527.1
+India,Sunflower seed,2004,kg/ha,465.8
+India,Sunflower seed,2005,kg/ha,548.9
+India,Sunflower seed,2006,kg/ha,591.4
+India,Sunflower seed,2007,kg/ha,641.1
+India,Sunflower seed,2008,kg/ha,749.4
+India,Sunflower seed,2009,kg/ha,590.6
+India,Sunflower seed,2010,kg/ha,676.5
+India,Sunflower seed,2011,kg/ha,694.2
+India,Sunflower seed,2012,kg/ha,720.1
+India,Sunflower seed,2013,kg/ha,672.1
+India,Sunflower seed,2014,kg/ha,757.1
+India,Sunflower seed,2015,kg/ha,671.5
+India,Sunflower seed,2016,kg/ha,653.0
+India,Sunflower seed,2017,kg/ha,693.4
+India,Sunflower seed,2018,kg/ha,853.7
+India,Sunflower seed,2019,kg/ha,807.7
+India,Sunflower seed,2020,kg/ha,983.4
+India,Sunflower seed,2021,kg/ha,986.4
+India,Sunflower seed,2022,kg/ha,976.5
+India,Sunflower seed,2023,kg/ha,1029.5
+India,Sunflower seed,2024,kg/ha,1124.7
+India,Wheat,2000,kg/ha,2778.5
+India,Wheat,2001,kg/ha,2708.1
+India,Wheat,2002,kg/ha,2762.1
+India,Wheat,2003,kg/ha,2610.0
+India,Wheat,2004,kg/ha,2713.2
+India,Wheat,2005,kg/ha,2601.6
+India,Wheat,2006,kg/ha,2618.8
+India,Wheat,2007,kg/ha,2707.9
+India,Wheat,2008,kg/ha,2802.2
+India,Wheat,2009,kg/ha,2907.1
+India,Wheat,2010,kg/ha,2839.5
+India,Wheat,2011,kg/ha,2988.6
+India,Wheat,2012,kg/ha,3177.5
+India,Wheat,2013,kg/ha,3153.8
+India,Wheat,2014,kg/ha,3145.7
+India,Wheat,2015,kg/ha,2749.6
+India,Wheat,2016,kg/ha,3033.9
+India,Wheat,2017,kg/ha,3199.9
+India,Wheat,2018,kg/ha,3368.2
+India,Wheat,2019,kg/ha,3533.4
+India,Wheat,2020,kg/ha,3439.8
+India,Wheat,2021,kg/ha,3520.8
+India,Wheat,2022,kg/ha,3537.3
+India,Wheat,2023,kg/ha,3520.7
+India,Wheat,2024,kg/ha,3559.0
